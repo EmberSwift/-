@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сериализация2", "Сериализация2\Сериализация2.csproj", "{A945CA94-0B2B-4622-9846-687483EFE8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A945CA94-0B2B-4622-9846-687483EFE8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A945CA94-0B2B-4622-9846-687483EFE8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A945CA94-0B2B-4622-9846-687483EFE8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A945CA94-0B2B-4622-9846-687483EFE8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A8FF09-1798-42B6-BF8E-DFE149EA776E}
+	EndGlobalSection
+EndGlobal
